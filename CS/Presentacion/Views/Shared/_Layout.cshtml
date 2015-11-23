@@ -37,9 +37,9 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li>@Html.ActionLink("Inicio", "#Index", "", new {area = ""}, null)</li>
-                <li>@Html.ActionLink("Contáctanos", "#Contact", "", new {area = ""}, null)</li>
-                <li>@Html.ActionLink("Acerca dé", "#AcercaDe", "", new {area = ""}, null)</li>
+                <li>@Html.ActionLink("Inicio", "#Index", "", new { div = "#Index", onclick = "GoToDiv(this)" }, null)</li>
+                <li>@Html.ActionLink("Contáctanos", "#Index", "", new { div = "#Contact", onclick = "GoToDiv(this)" }, null)</li>
+                <li>@Html.ActionLink("Acerca dé", "#Index", "", new { div = "#About", onclick = "GoToDiv(this)" }, null)</li>
             </ul>
         </div>
     </div>
