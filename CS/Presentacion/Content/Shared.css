@@ -7,6 +7,6 @@
 
 .showItem {
     opacity: 1;
-	overflow: hidden;
+	
 	transition: all 3s;
 }
