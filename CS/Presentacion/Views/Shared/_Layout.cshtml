@@ -23,8 +23,8 @@
         </div>
     </div>
 </div>
-
-<div class="navbar navbar-inverse " id="header">
+<div class="btn btn-success" id="btnLogIn" style="position: fixed; right: 11px; z-index: 100; float: right; bottom: 38px; border-radius: 65px;"><span class="glyphicon glyphicon-user"></span></div>
+<div class="navbar navbar-inverse verdeHeader" id="header">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -36,18 +36,23 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li>@Html.ActionLink("Inicio", "Index", "Home", new {area = ""}, null)</li>
-                <li>@Html.ActionLink("Contáctanos", "Index", "Help", new {area = ""}, null)</li>
-                <li>@Html.ActionLink("Acerca dé", "Index", "Help", new { area = "" }, null)</li>
+                <li>@Html.ActionLink("Inicio", "#Index", "", new {area = ""}, null)</li>
+                <li>@Html.ActionLink("Contáctanos", "#Contact", "", new {area = ""}, null)</li>
+                <li>@Html.ActionLink("Acerca dé", "#AcercaDe", "", new {area = ""}, null)</li>
             </ul>
         </div>
     </div>
 </div>
 <div class="container body-content">
     @RenderBody()
-    <hr/>
-    <footer>
-        <p>&copy; @DateTime.Now.Year - Mi aplicación ASP.NET</p>
+    <footer class="col-md-12p ">
+        <div class="col-md-12 Footer naranjaFooter">
+            <p class="pFooter text-center">Instituto Tecnológico de Hermosillo, www.ith.mx, webmaster@ith.mx</p>
+            <p class="pFooter text-center">Ave. Tecnológico y Periférico Poniente S/N C.P. 83170 Colonia Sahuaro, Hermosillo Sonora, México</p>
+            <p class="pFooter text-center">Teléfonos: (01 662) 2 60 65 00</p>
+            <p class="pFooter text-center">Copyright © 2013 Instituto Tecnológico de Hermosillo. Algunos derechos reservados.</p>
+        </div>
+        
     </footer>
 </div>
 
