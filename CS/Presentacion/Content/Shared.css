@@ -1,12 +1,30 @@
-﻿/*vista login*/
+﻿/*vista layaout*/
+/*header*/
+.verdeHeader {
+    background:rgba(69,160,69,0.88);
+}
+
+/*footer*/
+.pFooter {
+    font-size: 10px;
+    color: white;
+}
+
+.naranjaFooter {
+    background: #df691a;
+}
+
+/*vista login*/
 /*modal login*/
 .hideItem {
     opacity: 0;
-	
 }
 
 .showItem {
     opacity: 1;
-	overflow: hidden;
+<<<<<<< HEAD
+	
+=======
+>>>>>>> refs/remotes/origin/master
 	transition: all 3s;
 }
