@@ -1,7 +1,7 @@
 ﻿@model Datos.Usuario
     <form class="form-horizontal col-md-6 col-md-offset-3">
     <fieldset>
-    <legend>Add+User</legend>
+    <legend>Registrar usuario</legend>
     <div class="form-group">
         <label class="control-label" for="focusedInput">No. Control</label>
         @Html.TextBoxFor(m=>m.NoControl, new {@class="form-control",@placeholder="Inserte No. de control"})
@@ -34,22 +34,14 @@
                 <option>Lic. en Administración</option>
             </select>
     </div>
-    <div class="form-group">
-        <label class="control-label">Usuario</label>
-            <div class="radio">
-                <label>
-                    <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked="">
-                    Coordinador
-                </label>
-                <label>
-                    <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2" checked="">
-                    Maestro
-                </label>
-                <label>
-                    <input type="radio" name="optionsRadios" id="optionsRadios3" value="option3" checked="">
-                    Alumno
-                </label>
-            </div>
+        <div class="form-group">
+            <label for="select" class="control-label">Seleccione usuario</label>
+
+            <select class="form-control" id="select">
+                <option>Coordinador</option>
+                <option>Maestro</option>
+                <option>Usuario</option>
+            </select>
         </div>
     <div class="form-group">
             <button type="submit" class="btn btn-primary">Guardar cambios</button>
