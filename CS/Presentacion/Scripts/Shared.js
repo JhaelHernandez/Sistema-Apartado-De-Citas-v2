@@ -2,19 +2,19 @@
     $(id).addClass("showItem");
 }
 
+//function GoToDiv(obj) {
+//    var idDiv = $(obj).attr("div");
+//    setTimeout(function() {
+//        $(document).scrollTo(idDiv, 2000);
+//    },2000);
+    
+//    $(obj).addClass("active");
+//}
+
 function GoToDiv(obj) {
     var idDiv = $(obj).attr("div");
-    $(document).scrollTo(idDiv);
-}
-
-$('#Contact').click = function () {
-    $(document).scrollTo('#contact');
-}
-
-$('#contactlink').click = function () {
-    $(document).scrollTo('#contact');
-}
-
-$('#contactlink').click = function () {
-    $(document).scrollTo('#contact');
-}
+    $('html,body').animate({
+        scrollTop: $(idDiv).offset().top
+    },
+       'slow');
+};
