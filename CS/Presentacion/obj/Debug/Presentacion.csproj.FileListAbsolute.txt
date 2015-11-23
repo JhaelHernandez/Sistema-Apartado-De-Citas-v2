@@ -417,7 +417,4 @@ C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj\Debug\Presentacion.dll
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj\Debug\Presentacion.pdb
 >>>>>>> refs/remotes/origin/master
-<<<<<<< HEAD
-=======
 >>>>>>> origin/master
->>>>>>> refs/remotes/origin/master
