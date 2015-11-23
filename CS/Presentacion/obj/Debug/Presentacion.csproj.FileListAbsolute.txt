@@ -208,6 +208,7 @@ C:\Users\Carlos\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\ob
 C:\Users\Carlos\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj\Debug\Presentacion.dll
 C:\Users\Carlos\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj\Debug\Presentacion.pdb
 =======
+<<<<<<< HEAD
 C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\bin\roslyn\csc.exe
 C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -312,6 +313,7 @@ C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion
 C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
 C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj\Debug\Presentacion.dll
 C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj\Debug\Presentacion.pdb
+=======
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\bin\roslyn\csc.exe
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -416,4 +418,5 @@ C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\bin
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj\Debug\Presentacion.dll
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Presentacion\obj\Debug\Presentacion.pdb
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
