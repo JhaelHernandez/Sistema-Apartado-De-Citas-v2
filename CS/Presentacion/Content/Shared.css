@@ -1,0 +1,12 @@
+﻿/*vista login*/
+/*modal login*/
+.hideItem {
+    opacity: 0;
+	
+}
+
+.showItem {
+    opacity: 1;
+	overflow: hidden;
+	transition: all 3s;
+}

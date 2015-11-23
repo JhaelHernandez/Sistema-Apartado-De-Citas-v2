@@ -1,0 +1,16 @@
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\Negocios.dll.config
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\Negocios.dll
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\Negocios.pdb
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\Datos.dll
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\EntityFramework.dll
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\Datos.pdb
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\EntityFramework.xml
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\obj\Debug\Negocios.FunctionTable.Resource.resources
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\obj\Debug\Negocios.dll
+C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\obj\Debug\Negocios.pdb
