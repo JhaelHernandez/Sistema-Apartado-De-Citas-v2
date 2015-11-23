@@ -15,6 +15,9 @@ C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\obj\Debug\Neg
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\obj\Debug\Negocios.dll
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Negosios\obj\Debug\Negocios.pdb
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
 C:\Users\Carlos\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\bin\Debug\Negocios.dll.config
 C:\Users\Carlos\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\bin\Debug\Negocios.dll
 C:\Users\Carlos\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\bin\Debug\Negocios.pdb
@@ -31,6 +34,8 @@ C:\Users\Carlos\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\obj\De
 C:\Users\Carlos\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\obj\Debug\Negocios.csproj.GenerateResource.Cache
 C:\Users\Carlos\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\obj\Debug\Negocios.dll
 C:\Users\Carlos\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\obj\Debug\Negocios.pdb
+<<<<<<< HEAD
+=======
 =======
 C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\bin\Debug\Negocios.dll.config
 C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\bin\Debug\Negocios.dll
@@ -49,3 +54,4 @@ C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\obj
 C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\obj\Debug\Negocios.dll
 C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Negosios\obj\Debug\Negocios.pdb
 >>>>>>> refs/remotes/origin/master
+>>>>>>> origin/master
