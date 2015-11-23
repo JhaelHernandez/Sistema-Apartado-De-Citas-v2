@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Agregar Usuario</title>
+</head>
+<body>
+    <form class="form-horizontal">
+    <fieldset>
+    <legend>Add+User</legend>
+    <div class="form-group">
+        <label class="control-label" for="focusedInput">No. Control</label>
+        <input class="form-control" id="focusedInput" type="text" value="Inserte No. de control">
+    </div>
+    <div class="form-group">
+        <label class="control-label" for="focusedInput">Nombre</label>
+        <input class="form-control" id="focusedInput" type="text" value="Escriba nombre del alumno">
+    </div>
+    <div class="form-group">
+        <label class="control-label" for="focusedInput">Apellidos</label>
+        <input class="form-control" id="focusedInput" type="text" value="Escriba apellido del alumno">
+    </div>
+    <div class="form-group">
+        <label for="inputPassword" class="col-lg-2 control-label">Contraseña</label>
+        <div class="col-lg-10">
+            <input type="password" class="form-control" id="inputPassword" placeholder="Contrasaeña">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="select" class="col-lg-2 control-label">Seleccione materias</label>
+        <div class="col-lg-10">
+            <select class="form-control" id="select">
+                <option>Ing. Biomédica</option>
+                <option>Ing. Eléctrica</option>
+                <option>Ing. Electrónica</option>
+                <option>Ing. en Gestión Empresarial</option>
+                <option>Ing. Industrial</option>
+                <option>Ing. en Informática</option>
+                <option>Ing. Mecánica</option>
+                <option>Ing. Mecatrónica</option>
+                <option>Ing. en Sistemas Computacionales</option>
+                <option>Lic. en Administración</option>
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-lg-2 control-label">Usuario</label>
+        <div class="col-lg-10">
+            <div class="radio">
+                <label>
+                    <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked="">
+                    Coordinador
+                </label>
+                <label>
+                    <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2" checked="">
+                    Maestro
+                </label>
+                <label>
+                    <input type="radio" name="optionsRadios" id="optionsRadios3" value="option3" checked="">
+                    Alumno
+                </label>
+            </div>
+            </div>
+        </div>
+    <div class="form-group">
+        <div class="col-lg-10 col-lg-offset-2">
+            <button type="submit" class="btn btn-primary">Guardar cambios</button>
+            <button type="reset" class="btn btn-default">Cancelar</button>
+        </div>
+    </div>
+    </fieldset>
+    </form>
+</body>
+</html>
