@@ -12,3 +12,17 @@ C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Datos\obj\Debug\Datos.
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Datos\obj\Debug\Datos.dll
 C:\Users\Jhael\Documents\GitHub\Sistema-Apartado-Citas\CS\Datos\obj\Debug\Datos.pdb
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\bin\Debug\Datos.dll.config
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\bin\Debug\Datos.dll
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\bin\Debug\Datos.pdb
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\obj\Debug\Datos.FunctionTable.Resource.resources
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\obj\Debug\Datos.dll
+C:\Users\Alejandro\Documents\GitHub\Sistema-Apartado-De-Citas-v2\CS\Datos\obj\Debug\Datos.pdb
